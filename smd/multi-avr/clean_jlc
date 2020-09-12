@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rm *.xml
+rm *.csv
+rm gerbers/*.csv
+

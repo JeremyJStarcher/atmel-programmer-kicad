@@ -1,0 +1,12 @@
+# temp files
+th/*.bak
+th/*.bck
+th/*.kicad_pcb-bak
+th/*.sch-bak
+th/*-cache.lib
+# *-rescue.lib
+th/ftp-lib-table
+
+# for external tools
+th/*.dsn
+th/*.ses
