@@ -1,4 +1,4 @@
-update=Fri 11 Sep 2020 10:30:09 AM EDT
+update=Tue 03 Nov 2020 01:16:28 AM EST
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=pdf/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
@@ -40,7 +40,7 @@ MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.381
 TrackWidth2=0.381
-TrackWidth3=0.762
+TrackWidth3=0.508
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.381
